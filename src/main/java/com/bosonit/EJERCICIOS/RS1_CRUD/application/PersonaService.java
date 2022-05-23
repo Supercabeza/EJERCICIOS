@@ -1,4 +1,4 @@
-package com.bosonit.EJERCICIOS.RS1_CRUD.infrastructure;
+package com.bosonit.EJERCICIOS.RS1_CRUD.application;
 
 
 

@@ -1,10 +1,10 @@
-package com.bosonit.EJERCICIOS.RS1_CRUD.application;
+package com.bosonit.EJERCICIOS.RS1_CRUD.infrastructure.controller;
 
 
 
 
+import com.bosonit.EJERCICIOS.RS1_CRUD.application.PersonaService;
 import com.bosonit.EJERCICIOS.RS1_CRUD.domain.Persona;
-import com.bosonit.EJERCICIOS.RS1_CRUD.infrastructure.PersonaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
